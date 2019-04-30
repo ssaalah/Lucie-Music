@@ -1,0 +1,6 @@
+owner=553149654884155393
+prefix=!
+game=Break | !play
+stayinchannel=true
+songinstatus=false
+token=NTcyODU1OTQ0Mzk3MTkzMjE4.XMiYEw.rT5fLRYce-NGF5jJg-vKQtrA5W0
